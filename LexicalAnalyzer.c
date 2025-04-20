@@ -1,7 +1,5 @@
 /* 
 John Heitzman 
-R11626572
-Submission Date: March 27, 2025
 
 
 Lexical Analyzer (Project #1):
@@ -203,10 +201,6 @@ void analyze_lexemes(FILE *file)
 
 /**
 Program Start Point:
-when we run ./cooke_analyzer whateverfilename.dc
-think of argv[0] is the ./cook_analyzer file or the name of the program 
-argv[1] as the filename entered by the user
-
 */
 int main(int argc, char *argv[]) 
 {
@@ -228,7 +222,7 @@ int main(int argc, char *argv[])
 }
 
 
-//this is the file opner for the user. this helps with writting messy error logic basically
+//this is the file opener for the user. this helps with writting messy error logic basically
 FILE* open_file(const char* filename) 
 {
     FILE *file = fopen(filename, "r");
