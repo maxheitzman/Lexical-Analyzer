@@ -28,7 +28,7 @@ Run the compiled program with a `.dc` source file as input:
 ## Folder Structure
 
     lexical-analyzer/
-    ├── LexicalAnalyzer.c
+    ├── John_Heitzman_R11626572_Project1.c
     ├── lexical.h
     ├── tokens.h
     ├── Makefile
