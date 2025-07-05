@@ -1,5 +1,5 @@
 /* 
-John Heitzman 
+Max Heitzman 
 
 
 Lexical Analyzer (Project #1):
